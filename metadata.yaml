@@ -1,0 +1,32 @@
+_repo: The-True-Woman--13-A-Series-of-Discourses-to-Which-Is-Added-Woman-vs.-Ballot_12790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fulton, Justin D. (Justin Dewey)
+    aliases:
+    - Fulton, J. D. (Justin Dewey)
+    - Fulton, Justin Dewey
+    birthdate: 1828
+    deathdate: 1901
+    gutenberg_agent_id: '4582'
+    url: http://www.gutenberg.org/2009/agents/4582
+description: ''
+gutenberg_issued: '2004-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage'
+- !lcsh 'Husband and wife'
+- !lcsh 'Women -- Religious aspects -- Christianity'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: Woman as God made her -- Woman a helpmeet -- Woman as a tempter --
+  The glory of motherhood -- Mariolatry not of Christ -- Woman's work and woman's
+  mission -- Woman vs. ballot.
+title: "The True Woman\r\nA Series of Discourses, to Which Is Added Woman vs. Ballot"
+url: http://www.gutenberg.org/ebooks/12790
