@@ -1,5 +1,8 @@
 _repo: The-True-Woman--13-A-Series-of-Discourses-to-Which-Is-Added-Woman-vs.-Ballot_12790
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fulton, Justin D. (Justin Dewey)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4582'
     url: http://www.gutenberg.org/2009/agents/4582
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12790#The-True-Woman--13-A-Series-of-Discourses-to-Which-Is-Added-Woman-vs.-Ballot
 gutenberg_issued: '2004-06-30'
 gutenberg_type: Text
 identifiers:
